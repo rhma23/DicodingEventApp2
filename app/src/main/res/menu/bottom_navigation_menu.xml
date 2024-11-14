@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/upcoming"
+        android:title="@string/upcoming"
+        android:icon="@drawable/ic_upcoming" />
+    <item
+        android:id="@+id/finished"
+        android:title="@string/finished"
+        android:icon="@drawable/ic_finished" />
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/favorite"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_favorite" />
+
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting"
+        android:icon="@drawable/ic_settings" />
+</menu>

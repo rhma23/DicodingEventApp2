@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DicodingEventApp</string>
+    <string name="register">Register</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="event_name">Event Name</string>
+    <string name="kuota">Kuota tersisa : </string>
+    <string name="owner_name">Dicoding Event</string>
+    <string name="home">Home</string>
+    <string name="description_not_available">Description not available</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="favorite_event">Favorite Event</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_0">0</string>
+    <string name="no_data_available">No data available</string>
+    <string name="summary">summary</string>
+    <string name="city_name">city name</string>
+    <string name="date">date</string>
+    <string name="mulai_pukul">Mulai pukul : </string>
+    <string name="_00_00">00:00</string>
+    <string name="wib">WIB</string>
+    <string name="durasi">Durasi :</string>
+    <string name="_00">00</string>
+    <string name="jam">Jam</string>
+    <string name="desk_eventFav">Recommendation Event for you!</string>
+    <string name="favorite_button">favorite_button</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">favorite</string>
+    <string name="setting">setting</string>
+    <string name="settings">Setting</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="dark_mode_">Dark Mode</string>
+
+</resources>
